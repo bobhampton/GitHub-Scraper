@@ -179,4 +179,4 @@ See `Gemfile.lock` for complete dependency tree.
 
 ## License
 
-This project is part of a coding challenge and is for educational purposes.
+This project is licensed under the [MIT License](LICENSE).
