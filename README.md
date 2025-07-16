@@ -1,3 +1,8 @@
+<p align="center">
+    <img width="200" height="200" alt="2da9c814-2fb8-4a1a-8c6b-c9a21977f2d6" src="https://github.com/user-attachments/assets/fa9a56b1-1c38-4d17-84e2-bb83ef0fc72b" />
+    </p>
+
+
 # GitHub Pull Request & Review Scraper
 
 A **Ruby-based data ingestion pipeline** for scraping pull requests, reviews, and repository metadata from the GitHub API using both **REST (Octokit)** and **GraphQL**. Built with **ActiveRecord 7.0**, **PostgreSQL**, and fully compatible with local `.env` configurations.
